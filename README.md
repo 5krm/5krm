@@ -33,7 +33,7 @@
 
 <div align="center">
   <!-- Generated automatically by lowlighter/metrics workflow -->
-  <img src="./github-metrics.svg" alt="Metrics Dashboard" width="100%" onerror="this.style.display='none'" />
+  <img src="./github-metrics.svg" alt="Metrics Dashboard" width="480" onerror="this.style.display='none'" />
 </div>
 
 <br/>
