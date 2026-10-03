@@ -7,8 +7,6 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/5krm?tab=followers"><img src="https://img.shields.io/github/followers/5krm?logo=github&style=for-the-badge&color=18181b&labelColor=09090b" alt="Followers" /></a>
-  <a href="https://github.com/5krm"><img src="https://img.shields.io/github/stars/5krm?logo=github&style=for-the-badge&color=18181b&labelColor=09090b" alt="Stars" /></a>
   <a href="https://github.com/5krm"><img src="https://img.shields.io/badge/Status-Building-brightgreen?style=for-the-badge&color=10b981&labelColor=09090b" alt="Status" /></a>
 </p>
 
