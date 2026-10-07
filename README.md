@@ -96,6 +96,3 @@
 
 ---
 
-<div align="center">
-  <sub>⚡ Generated and maintained with GitHub Actions & Antigravity Automation</sub>
-</div>
